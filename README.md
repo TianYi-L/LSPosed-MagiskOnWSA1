@@ -2,7 +2,7 @@
 
 ## Features
 
-- Integrate Magisk and OpenGApps in a few clicks within minutes
+- 只需要几分钟，轻轻点击几次，将面具导入到WSA中
 - No Linux environment required for integration
 - Keep each build up to date
 - Support both ARM64 and x64
